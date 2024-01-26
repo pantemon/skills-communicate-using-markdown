@@ -5,3 +5,7 @@
 ```rust
 println!("What's up?")
 ```
+
+- [x] Sleep
+- [x] Eat
+- [ ] Repeat
